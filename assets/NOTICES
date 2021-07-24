@@ -12340,6 +12340,9 @@ path_provider_windows
 plugin_platform_interface
 url_launcher
 url_launcher_platform_interface
+video_player
+video_player_platform_interface
+video_player_web
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
